@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+
+
+	<!-- ====== 2) Connection Strings ====== -->
+	<connectionStrings>
+		<!-- Ejemplo SQL Server (autenticación integrada) -->
+		<add name="PrdDb"
+			 connectionString="Data Source=10.0.1.157\MSSQLSERVER2017;Initial Catalog=vistasMCC;User Id=icgadmin;Password=masterkey;MultipleActiveResultSets=True;Connect Timeout=30"
+			 providerName="System.Data.SqlClient" />
+		<!-- Ejemplo SQL con usuario -->
+		<!--
+    <add name="MainDb"
+         connectionString="Data Source=SQLPRD01;Initial Catalog=ERP_Produccion;User ID=app_user;Password=***;Encrypt=True;TrustServerCertificate=False"
+         providerName="System.Data.SqlClient" />
+    -->
+	</connectionStrings>
+
+
+	
+</configuration>

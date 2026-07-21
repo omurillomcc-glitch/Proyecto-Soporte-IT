@@ -1,0 +1,47 @@
+C:\Users\ablumen.CORPORACIONMCC\source\repos\ExcelAddInRCP_ICG\bin\Debug\ExcelAddInRCP_ICG.dll
+C:\Users\ablumen.CORPORACIONMCC\source\repos\ExcelAddInRCP_ICG\bin\Debug\ExcelAddInRCP_ICG.pdb
+C:\Users\ablumen.CORPORACIONMCC\source\repos\ExcelAddInRCP_ICG\bin\Debug\ExcelAddInRCP_ICG.dll.manifest
+C:\Users\ablumen.CORPORACIONMCC\source\repos\ExcelAddInRCP_ICG\bin\Debug\ExcelAddInRCP_ICG.vsto
+C:\Users\ablumen.CORPORACIONMCC\source\repos\ExcelAddInRCP_ICG\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\ablumen.CORPORACIONMCC\source\repos\ExcelAddInRCP_ICG\obj\Debug\ExcelAddInRCP_ICG.csproj.AssemblyReference.cache
+C:\Users\ablumen.CORPORACIONMCC\source\repos\ExcelAddInRCP_ICG\obj\Debug\ExcelAddInRCP_ICG.Properties.Resources.resources
+C:\Users\ablumen.CORPORACIONMCC\source\repos\ExcelAddInRCP_ICG\obj\Debug\ExcelAddInRCP_ICG.Ribbon1.resources
+C:\Users\ablumen.CORPORACIONMCC\source\repos\ExcelAddInRCP_ICG\obj\Debug\ExcelAddInRCP_ICG.csproj.GenerateResource.cache
+C:\Users\ablumen.CORPORACIONMCC\source\repos\ExcelAddInRCP_ICG\obj\Debug\ExcelAddInRCP_ICG.csproj.CoreCompileInputs.cache
+C:\Users\ablumen.CORPORACIONMCC\source\repos\ExcelAddInRCP_ICG\obj\Debug\ExcelAdd.89B9F069.Up2Date
+C:\Users\ablumen.CORPORACIONMCC\source\repos\ExcelAddInRCP_ICG\obj\Debug\ExcelAddInRCP_ICG.dll
+C:\Users\ablumen.CORPORACIONMCC\source\repos\ExcelAddInRCP_ICG\obj\Debug\ExcelAddInRCP_ICG.pdb
+C:\Users\ablumen.CORPORACIONMCC\source\repos\ExcelAddInRCP_ICG\bin\Debug\ExcelAddInRCP_ICG.dll.config
+C:\Users\ablumen.CORPORACIONMCC\source\repos\ExcelAddInRCP_ICG\obj\Debug\ExcelAddInRCP_ICG.dll.config
+C:\Users\ABLUMEN\source\repos\ExcelAddInRCP_ICG\obj\Debug\ExcelAddInRCP_ICG.csproj.AssemblyReference.cache
+C:\Users\ABLUMEN\source\repos\ExcelAddInRCP_ICG\obj\Debug\ExcelAddInRCP_ICG.Properties.Resources.resources
+C:\Users\ABLUMEN\source\repos\ExcelAddInRCP_ICG\obj\Debug\ExcelAddInRCP_ICG.Ribbon1.resources
+C:\Users\ABLUMEN\source\repos\ExcelAddInRCP_ICG\obj\Debug\ExcelAddInRCP_ICG.csproj.GenerateResource.cache
+C:\Users\ABLUMEN\source\repos\ExcelAddInRCP_ICG\obj\Debug\ExcelAddInRCP_ICG.csproj.CoreCompileInputs.cache
+C:\Users\ABLUMEN\source\repos\ExcelAddInRCP_ICG\obj\Debug\ExcelAddInRCP_ICG.dll
+C:\Users\ABLUMEN\source\repos\ExcelAddInRCP_ICG\obj\Debug\ExcelAddInRCP_ICG.pdb
+C:\Users\ABLUMEN\source\repos\ExcelAddInRCP_ICG\bin\Debug\ExcelAddInRCP_ICG.dll.config
+C:\Users\ABLUMEN\source\repos\ExcelAddInRCP_ICG\bin\Debug\ExcelAddInRCP_ICG.dll
+C:\Users\ABLUMEN\source\repos\ExcelAddInRCP_ICG\bin\Debug\ExcelAddInRCP_ICG.pdb
+C:\Users\ABLUMEN\source\repos\ExcelAddInRCP_ICG\bin\Debug\ExcelAddInRCP_ICG.dll.manifest
+C:\Users\ABLUMEN\source\repos\ExcelAddInRCP_ICG\bin\Debug\ExcelAddInRCP_ICG.vsto
+C:\Users\ABLUMEN\source\repos\ExcelAddInRCP_ICG\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\ABLUMEN\source\repos\ExcelAddInRCP_ICG\obj\Debug\ExcelAdd.89B9F069.Up2Date
+C:\Users\ABLUMEN\source\repos\ExcelAddInRCP_ICG\bin\Debug\NuGet.Frameworks.dll
+C:\Users\ABLUMEN\source\repos\ExcelAddInRCP_ICG\bin\Debug\NuGet.Frameworks.xml
+C:\Users\Orlin Murillo\Downloads\proyecto ing\ExcelAddInRCP_ICG\bin\Debug\ExcelAddInRCP_ICG.dll.config
+C:\Users\Orlin Murillo\Downloads\proyecto ing\ExcelAddInRCP_ICG\bin\Debug\ExcelAddInRCP_ICG.dll
+C:\Users\Orlin Murillo\Downloads\proyecto ing\ExcelAddInRCP_ICG\bin\Debug\ExcelAddInRCP_ICG.pdb
+C:\Users\Orlin Murillo\Downloads\proyecto ing\ExcelAddInRCP_ICG\bin\Debug\ExcelAddInRCP_ICG.dll.manifest
+C:\Users\Orlin Murillo\Downloads\proyecto ing\ExcelAddInRCP_ICG\bin\Debug\ExcelAddInRCP_ICG.vsto
+C:\Users\Orlin Murillo\Downloads\proyecto ing\ExcelAddInRCP_ICG\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Orlin Murillo\Downloads\proyecto ing\ExcelAddInRCP_ICG\bin\Debug\NuGet.Frameworks.dll
+C:\Users\Orlin Murillo\Downloads\proyecto ing\ExcelAddInRCP_ICG\bin\Debug\NuGet.Frameworks.xml
+C:\Users\Orlin Murillo\Downloads\proyecto ing\ExcelAddInRCP_ICG\obj\Debug\ExcelAddInRCP_ICG.csproj.AssemblyReference.cache
+C:\Users\Orlin Murillo\Downloads\proyecto ing\ExcelAddInRCP_ICG\obj\Debug\ExcelAddInRCP_ICG.Properties.Resources.resources
+C:\Users\Orlin Murillo\Downloads\proyecto ing\ExcelAddInRCP_ICG\obj\Debug\ExcelAddInRCP_ICG.Ribbon1.resources
+C:\Users\Orlin Murillo\Downloads\proyecto ing\ExcelAddInRCP_ICG\obj\Debug\ExcelAddInRCP_ICG.csproj.GenerateResource.cache
+C:\Users\Orlin Murillo\Downloads\proyecto ing\ExcelAddInRCP_ICG\obj\Debug\ExcelAddInRCP_ICG.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Murillo\Downloads\proyecto ing\ExcelAddInRCP_ICG\obj\Debug\ExcelAdd.89B9F069.Up2Date
+C:\Users\Orlin Murillo\Downloads\proyecto ing\ExcelAddInRCP_ICG\obj\Debug\ExcelAddInRCP_ICG.dll
+C:\Users\Orlin Murillo\Downloads\proyecto ing\ExcelAddInRCP_ICG\obj\Debug\ExcelAddInRCP_ICG.pdb
